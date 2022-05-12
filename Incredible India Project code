@@ -1,0 +1,445 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>INCREDIBLE INDIA</title>
+    <style media="screen">
+    body{
+    background-image: url("https://mcdn.wallpapersafari.com/medium/59/32/n0sGTg.jpg");
+    background-size:cover;
+    background-attachment: fixed;   }
+
+header{
+  background:#b3e7fb;
+  color:black;
+  padding: 10px;
+}
+.A{
+  width:50%;
+  heigth:100px;
+}
+nav ul{
+  list-style-type:none;
+  overflow: hidden;
+
+}
+nav li a{
+  float:left;
+  text-decoration: none;
+  padding: 10px;
+  color: white;
+  background: black;
+  display: block;
+}
+nav li a:hover{
+  background: white;
+  color: black;
+
+}
+span{
+  font-family:
+
+}
+span:hover{
+  color:orange;
+  background: black;
+}
+th:hover{
+  background: black;
+  color: white;
+}
+
+tr:hover{
+  background: #dbdbe9;
+  color: black;
+}
+na ul{
+  list-style-type:none;
+  margin: 30px;
+}
+na li a{
+  text-decoration: none;
+  font-size: 1.2em;
+  padding:20px;
+  color:white;
+  background: grey;
+  width: 35%;
+  display: block;
+}
+na li a:hover{
+  background-color: black;
+  color :white;
+}
+.QW{
+  color:white;
+
+  width:80%;
+
+}
+.SD{
+  color: red;
+
+  width:80%;
+}
+span{
+  font-size: 1.6em;
+
+}
+.PO{
+  width: 45%;
+
+}
+.r{
+  color:red;
+
+  width: 20%;
+
+}
+
+.t{
+  color:red;
+
+  width: 20%;
+
+}
+
+.k{
+  color: red;
+
+  width: 20%;
+}
+.u{
+  color: red;
+
+  width: 20%;
+
+}
+.o{
+  color: red;
+
+  width: 20%;
+}
+.n{
+  color :red;
+
+  width: 30%;
+}
+th{
+  color: red;
+}
+h3{
+  color: white;
+}
+table{
+  color: white;
+}
+    </style>
+  </head>
+  <body><header>
+    <center><h1 class="KL"> INCREDIBLE <span>INDIA</span></h1></center><br>
+
+<nav>
+<div class="AB">
+  <ul>
+    <li><a href="https://0qwp1qzyrchzur4ruiuxvw-on.drv.tw/temple%202/TEMPLE.HTML">TEMPLES</a></li>
+    <li><a href="https://0qwp1qzyrchzur4ruiuxvw-on.drv.tw/traditions2/traditions.html">TRADITION</a></li>
+    <li>  <a href="https://0qwp1qzyrchzur4ruiuxvw-on.drv.tw/food2/food.html">FOOD </a> </li>
+    <li><a href="https://0qwp1qzyrchzur4ruiuxvw-on.drv.tw/festival2/festival.html">FESTIVALS</a></li>
+  </ul>
+
+
+
+
+</div>
+</nav>
+</header>
+<div class="w">
+
+
+<img class="A" src="https://images.unsplash.com/photo-1570863102242-7d03ca0f4bd0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8aW5kaWFuJTIwZmxhZ3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="">
+<img class="PO" src="https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/201808/national_emblem-647x1575.jpg?5MZnE0LvrJeSTS.RWLHGQNiBqjwJ2DSb" alt="">
+</div>
+
+        <h2 class="r">HISTORY</h2>
+
+        <h2 class="t">  Ancient India:</h2>
+
+
+          <h3><p> By 55,000 years ago, the first modern humans, or Homo sapiens, had arrived on the Indian subcontinent from Africa, where they had earlier evolved. The earliest known modern human remains in South Asia date to about 30,000 years ago.After 6500 BCE, evidence for domestication of food crops and animals, construction of permanent structures, and storage of agricultural surplus appeared in Mehrgarh and other sites in what is now Balochistan, Pakistan.These gradually developed
+
+    </p><br></h2>
+      <h2 class="k">    Medieval India:</h2>
+  <h3>  A map of India in 1022 CE; Brihadeshwara temple, Thanjavur, completed in 1010 CE The Indian early medieval age, 600 CE to 1200 CE, is defined by regional kingdoms and cultural diversity. When Harsha of Kannauj, who ruled much of the Indo-Gangetic Plain from 606 to 647 CE, attempted to expand southwards, he was defeated by the Chalukya ruler of the Deccan. When his successor attempted to expand eastwards, he was defeated by the Pala king of Bengal. When the Chalukyas attempted to expand southwards, they were defeated by the Pallavas from farther south, who in turn were opposed by the Pandyas and the Cholas from still farther south. No ruler of this period was able to create an empire and consistently control lands much beyond his core region. During this time, pastoral peoples, whose land had been cleared to make way for the growing agricultural economy, were accommodated within caste society, as were new non-traditional ruling classes. The caste system consequently began to show regional differences.</h3>
+
+<h2 class="u">Early modern India : </h2>
+<h3 ><p>
+
+  In the early 16th century, northern India, then under mainly Muslim rulers, fell again to the superior mobility and firepower of a new generation of Central Asian warriors. The resulting Mughal Empire did not stamp out the local societies it came to rule. Instead, it balanced and pacified them through new administrative practices and diverse and inclusive ruling elites, leading to more systematic, centralised, and uniform rule. Eschewing tribal bonds and Islamic identity, especially under Akbar, the Mughals united their far-flung realms through loyalty, expressed through a Persianised culture, to an emperor who had near-divine status. The Mughal state's economic policies, deriving most revenues from agriculture and mandating that taxes be paid in the well-regulated silver currency, caused peasants and artisans to enter larger markets. The relative peace maintained by the empire during much of the 17th century was a factor in India's economic expansion, resulting in greater patronage of painting, literary forms, textiles, and architecture. Newly coherent social groups in northern and western India, such as the Marathas, the Rajputs, and the Sikhs, gained military and governing ambitions during Mughal rule, which, through collaboration or adversity, gave them both recognition and military experience. Expanding commerce during Mughal rule gave rise to new Indian commercial and political elites along the coasts of southern and eastern India. As the empire disintegrated, many among these elites were able to seek and control their own affairs.</p> <br>
+  <h2 class="o"> The Constitution of india: </h2><br><h3>In GeneralThe Constitution is usually defined as the SUPREME LAW. The constitution contains
+laws concerning to the government and its relations with the people. <br>
+A constitution is concerned with 2 main aspects:- <br>
+a) The relation between the different levels of government and <br>
+b) Between the government and the citizens. <br>
+
+
+Technical DefinitionsA constitution is a set of fundamental principles or established precedents according to
+which a state or other organization is governed. These rules together make up the
+CONSTITUTE. <br>
+When these principles are written down into a single collection or set of legal documents,
+those documents may be said to comprise a WRITTEN CONSTITUTION.
+or
+The document containing laws and rules which determine and describe the form of the
+government, the relationship between the citizens and the government, is called a Constitution.
+
+
+The Constitution of India (IAST: Bhāratīya Saṃvidhāna) is the supreme law of India. The
+document lays down the framework demarcating fundamental political code, structure,
+procedures, powers, and duties of government institutions and sets out fundamental
+rights, directive principles, and the duties of citizens. It is the longest written constitution of any
+country on earth. B. R. Ambedkar, chairman of the drafting committee, is widely considered to
+be its chief architect.<br>It imparts constitutional supremacy (not parliamentary supremacy, since it was created by
+a constituent assembly rather than Parliament) and was adopted by its people with a declaration
+in its preambleParliament cannot override the constitution.
+B. R. Ambedkar and Constitution of India on a 2015 postage stamp of India
+It was adopted by the Constituent Assembly of India on 26 November 1949 and became
+effective on 26 January 1950. The constitution replaced the Government of India Act 1935 as the
+country's fundamental governing document, and the Dominion of India became the Republic of
+India. To ensure constitutional autochthony, its framers repealed prior acts of the British
+parliament in Article 395. India celebrates its constitution on 26 January as Republic Day.
+The constitution declares India a sovereign, socialist, secular, democratic republic, assuring its
+citizens justice, equality and liberty, and endeavours to promote fraternity The original 1950
+constitution is preserved in a helium-filled case at the Parliament House in New Delhi. The
+words "secular" and "socialist" were added to the preamble in 1976 during the emergency.
+
+First person who wrote Constitution of India in written
+Prem Behari Narain Raizada: The Man Who (literally) Wrote India‘s Constitution</h2>
+</h3> <br><table>
+  <tr> <th>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKuT8QJJUQxmwBdnplidXz0gs7IenbQuYAxA&usqp=CAU" alt=""></th>
+<th> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt_B1AQGjgcLD3euAUm07IIm0VOg96k5ihPA&usqp=CAU" alt=""> </th>
+</tr>
+</table>  <br>  <h2 class="n">          States and Capitals of India
+        </h2>
+        <h3 >List of States and Capitals of India<br>
+As a responsible citizens we should know about the States and capitals of India. The states and the capitals are very commonly asked as the General Awareness Questions in a number of competitive exams held all over the country. The 28 Indian States and their capitals are as follows.
+<br></h3><h2 class="SD">
+States and Capitals of India 2020<br>
+</h2>
+
+        <img src="https://www.careerpower.in/2020/india-map.jpg" alt="">
+      <h2>  <table border="2">
+          <thead>
+            <tr>
+              <th>S.NO</th>
+              <th>STATE</th>
+              <th>CAPTIAL</th>
+              <th>CHEF MINISTER </th>
+            </tr>
+            </thead>
+
+        <tbody>
+          <tr>
+            <td>1		</td>
+            <td>Andhra Pradesh</td>
+            <td>	Amarvathi</td>
+            <td>Y.S.JAGAN MOHAN REEDY</td>
+        </tr>
+      <tr>
+        <td>2.</td>
+        <td>Arunachal Pradesh	</td>
+        <td>Itanagar</td>
+        <td>Pema Khandu</td>
+      </tr>
+      <tr>
+      <td> 3.</td>
+      <td>Assam	 </td>
+      <td> Dispur  </td>
+      <td>Sarbananda Sonowal</td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td>Bihar</td>
+      <td>Patna</td>
+      <td>Nitish Kumar</td>
+    </tr>
+    <tr>
+      <td>5.</td>
+      <td>Chhattisgarh	</td>
+      <td>	Raipur</td>
+      <td>Bhupesh Baghel</td>
+    </tr>
+    <tr>
+        <td>6.</td>
+        <td>Goa</td>
+        <td>Panaji</td>
+        <td>Pramod Sawant</td>
+
+    </tr>
+    <tr>
+      <td>7.</td>
+      <td>Gujarat	</td>
+      <td>Gandhinagar</td>
+      <td>Vijay Rupani</td>
+    </tr>
+    <tr>
+      <td>8.</td>
+      <td>Himachal Pradesh	</td>
+      <td>Shimla</td>
+      <td>	Jai Ram Thakur</td>
+    </tr>
+    <tr>
+      <td>9.</td>
+      <td>Haryana	</td>
+      <td>Chandigarh</td>
+      <td>Manohar Lal Khattar</td>
+    </tr>
+
+    <tr>
+      <td>10.</td>
+      <td>Jharkhand</td>
+      <td>Ranchi</td>
+      <td>Hemant Soren</td>
+    </tr>
+    <tr>
+    <td>11.</td>
+    <td>	Karnataka	 </td>
+      <td>Bengaluru</td>
+      <td>B. S. Yediyurappa</td>
+    </tr>
+    <tr>
+      <td>12.</td>
+      <td>Kerala</td>
+      <td>Thiruvananthapuram</td>
+      <td>Pinarayi Vijayan</td>
+    </tr>
+    <tr>
+        <td>13.</td>
+        <td>Madhya Pradesh</td>
+        <td>Bhopal</td>
+        <td>Shivraj Singh Chouhan</td>
+    </tr>
+    <tr>
+      <td>14.</td>
+      <td>	Maharashtra</td>
+      <td>Mumbai</td>
+      <td>Uddhav Thackeray</td>
+    </tr>
+    <tr>
+      <td>15.</td>
+      <td>Manipur</td>
+      <td>	Imphal</td>
+    <td>N. Biren Singh</td>
+        </tr>
+      <tr>
+          <td>16.</td>
+          <td>Meghalaya	</td>
+          <td>Shillong</td>
+          <td>Conrad Sangma</td>
+        </tr>
+        <tr>
+          <td>17.</td>
+          <td>Mizoram	</td>
+          <td>Aizawl</td>
+          <td>Zoramthanga</td>
+        </tr>
+        <tr>
+          <td>18.</td>
+          <td>Nagaland</td>
+          <td>	Kohima</td>
+          <td>Neiphiu Rio</td>
+        </tr>
+        <tr>
+          <td>19.</td>
+          <td>Odisha</td>
+          <td>Bhubaneswar</td>
+          <td>Naveen Patnaik</td>
+        </tr>
+        <tr>
+          <td>20.</td>
+          <td>Punjab	</td>
+          <td>Chandigarh</td>
+          <td>Amarinder Singh</td>
+        </tr>
+        <tr>
+        <td>21.</td>
+        <td>Rajasthan	</td>
+          <td>Jaipur</td>
+        <td>Ashok Gehlot</td>
+        </tr>
+        <tr>
+          <td>22.</td>
+          <td>Sikkim	</td>
+          <td>Gangtok</td>
+          <td>Prem Singh Tamang</td>
+        </tr>
+        <tr>
+        <td>23.</td>
+        <td>Tamil Nadu	</td>
+        <td>Chennai</td>
+        <td>Edappadi K. Palaniswami</td>
+
+        </tr>
+        <tr>
+        <td>24.</td>
+        <td>Telangana</td>
+        <td>Hyderabad</td>
+        <td>K. Chandrashekar Rao</td>
+        </tr>
+<tr>
+  <td>25.</td>
+  <td>Tripura	</td>
+  <td>Agartala</td>
+  <td>Biplab Kumar Deb</td>
+</tr>
+<tr>
+<td>26.</td>
+<td>	Uttar Pradesh	</td>
+  <td>Lucknow</td>
+  <td>ogi Adityanath</td>
+</tr>
+<tr>
+  <td>27.</td>
+  <td>Uttarakhand	</td>
+  <td>Dehradun</td>
+  <td>Trivendra Singh Rawat</td>
+</tr>
+<tr>
+  <td>28.</td>
+  <td>West Bengal	</td>
+  <td>Kolkata</td>
+  <td>Mamata Banerjee</td>
+</tr>
+                    </tbody>
+
+
+    </table></h2>
+<h2>Indian states and 7 Union Territories with their capitals</h2>
+<h2>A UNION TERRITOIES :</h2>
+<br>
+<h3> Is a type of administrative division in the Republic of India. Unlike the states of India, which have their own governments, union territories are federal territories governed, in part or in whole, by the Central Government of India.</h3>
+<h3>
+<na>
+<div class="">
+
+
+
+  <ul>
+<li class="XC">  <a href="https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands">1.Andaman and Nicobar Islands</a> </li>
+<li class="XC">  <a href="https://en.wikipedia.org/wiki/Chandigarh">2.Chandigarh</a> </li>
+  <li class="XC"><a href="https://en.wikipedia.org/wiki/Dadra_and_Nagar_Haveli_and_Daman_and_Diu">3.Dadra and Nagar Haveli and Daman and Diu</a> </li>
+<li class="XC">  <a href="https://en.wikipedia.org/wiki/Delhi">4.Delhi</a> </li>
+<li class="XC">  <a href="https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(union_territory)">5.Jammu and Kashmir</a> </li>
+
+<li class="XC">  <a href="https://en.wikipedia.org/wiki/Ladakh">6.Ladak</a> </li>
+<li class="XC">  <a href="https://en.wikipedia.org/wiki/Lakshadweep">7.Lakshadweep</a> </li>
+<li class="XC">  <a href="https://en.wikipedia.org/wiki/Puducherry_(union_territory)">8.Puducherry</a> </li>
+
+</ul>
+</div>
+</na>
+</h3>
+
+
+  <script src="https://www.drv.tw/inc/wd.js?s=0qwp1qzyrchzur4ruiuxvw"></script></body>
+</html>
